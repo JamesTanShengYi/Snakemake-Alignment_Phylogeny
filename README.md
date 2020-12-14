@@ -6,4 +6,4 @@ It is coded for use with a [snakemake configuration by RomainFeron](https://gith
 
 
 ## Dataset
-Contains the amino acid  and CDS sequences of the sex determination gene _doublesex_ in _Aedes aegypti, Drosophila melanogaster_ and 13 _Anopheles_ species. This was the original dataset the workflow was tested on when I made it.
+Contains the amino acid and CDS sequences of the sex determination gene _doublesex_ in _Aedes aegypti, Drosophila melanogaster_ and 13 _Anopheles_ species. Male and female transcripts are present within each. This was the original dataset the workflow was tested on when I made it.
