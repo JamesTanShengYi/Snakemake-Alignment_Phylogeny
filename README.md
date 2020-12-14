@@ -2,7 +2,7 @@
 
 ## Snakemake file
 This snakemake file contains a workflow allowing the creation of MAFFT alignments and RAxML phylogenies. Inputs can either be a set of amino acid or nucleotide sequences.
-It is coded for use with a [snakemake configuration by RomainFeron](https://github.com/RomainFeron/snakemake-slurm), so that it is compatible with a computing cluster managed by SLURM. Note that the outgroups in the ProteinTree and GeneTree rules need to be changed to accomodate your dataset.
+It is coded for use with a [snakemake configuration by RomainFeron](https://github.com/RomainFeron/snakemake-slurm), so that it works with a computing cluster managed by SLURM. Note that the outgroups in the ProteinTree and GeneTree rules need to be changed to accomodate your dataset.
 
 
 ## Dataset
